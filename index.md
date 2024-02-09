@@ -22,4 +22,4 @@ in_menu: true
 
 
 
-Détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site) 
+Détails sur [https://atelier.scribouilli.org/atelier-page?path=index.md&repoName=tellibre&account=solidairnet) 
