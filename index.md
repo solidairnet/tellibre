@@ -1,11 +1,23 @@
 ---
-title: "Ma page de recommandations"
+title: "Logiciels libres pour téléphone Androïd"
 order: 0
 in_menu: true
 ---
-# Mes logiciels libres pour mon tel
+# Mes recommandations
 
 
+<article class="framalibre-notice">
+  <div>
+    <img src="https://f-droid.org/assets/fdroid-logo-text_S0MUfk_FsnAYL7n2MQye-34IoSNm6QM6xYjDnMqkufo=.svg">
+  </div>
+  <div>
+    <h2>F-Droid</h2>
+    <p>F-Droid est un catalogue installable d’applications libres et à code source ouvert pour la plateforme Android. Le client facilite la découverte, l’installation et le suivi des mises à jour sur votre appareil Android.</p>
+    <div>
+      <a href="https://f-droid.org/">Télécharger F-Droid</a>
+          </div>
+  </div>
+</article>
 
 <article class="framalibre-notice">
   <div>
@@ -41,5 +53,4 @@ in_menu: true
     <div>
       <a href="https://atelier.scribouilli.org/atelier-page?path=index.md&repoName=tellibre&account=solidairnet">Edit</a>
           </div>
-
 </article> 
