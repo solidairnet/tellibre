@@ -37,5 +37,9 @@ in_menu: true
 </article>
 
 
+<article class="framalibre-notice">
+    <div>
+      <a href="https://atelier.scribouilli.org/atelier-page?path=index.md&repoName=tellibre&account=solidairnet">Edit</a>
+          </div>
 
-Détails sur [https://atelier.scribouilli.org/atelier-page?path=index.md&repoName=tellibre&account=solidairnet) 
+</article> 
