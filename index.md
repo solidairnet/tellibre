@@ -1,46 +1,25 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations"
 order: 0
+in_menu: true
 ---
+# Mes logiciels libres pour mon tel
 
-C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
-Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
-
-Un exemple ci-dessous :
-
-# Mes logiciels libres pour randonner
-
-## Pour ce que j'aurai filmé
 
 <article class="framalibre-notice">
   <div>
-    <img src="https://beta.framalibre.org/images/logo/PeerTube.png">
+    <img src="https://mupdf.com/images/logos/muPDF-plus-text.png">
   </div>
   <div>
-    <h2>PeerTube</h2>
-    <p>PeerTube est un logiciel décentralisé et fédéré d'hébergement de vidéos.</p>
+    <h2>Lecteur PDF Mu PDF</h2>
+    <p>MuPDF est un lecteur de PDF très léger et libre</p>
     <div>
-      <a href="https://beta.framalibre.org/notices/peertube.html">Vers la notice Framalibre</a>
-      <a href="https://joinpeertube.org/fr/">Vers le site</a>
-    </div>
+      <a href="https://f-droid.org/packages/com.artifex.mupdf.viewer.app/">Le telecharger sur F-Droid</a>
+          </div>
   </div>
 </article>
 
-## Pour écouter des émissions
 
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
 
-  <article class="framalibre-notice">
-    <div>
-      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
-    </div>
-    <div>
-      <h2>AntennaPod</h2>
-      <p>Un gestionnaire de Podcast pour Android.</p>
-      <div>
-        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
-        <a href="http://antennapod.org/">Vers le site</a>
-      </div>
-    </div>
-  </article>
+Détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site) 
