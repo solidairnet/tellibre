@@ -53,4 +53,8 @@ in_menu: true
     <div>
       <a href="https://atelier.scribouilli.org/atelier-page?path=index.md&repoName=tellibre&account=solidairnet">Edit</a>
           </div>
+   <div>
+      <a href="https://atelier.scribouilli.org/account?provider=git.scribouilli.org">Connecte</a>
+          </div>
+
 </article> 
